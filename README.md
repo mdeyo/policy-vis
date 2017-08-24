@@ -1,11 +1,5 @@
 # Policy-Visualizer #
 
-## Owners ##
-
-Matt Deyo ([mdeyo@mit.edu](mdeyo@mit.edu))
-
-Tiago Vaquero ([tvaquero@mit.edu](tvaquero@mit.edu))
-
 ## Description ##
 
 This project was made with the goal of making a browser-based JavaScript visualizer for policies produced by RAO* examples. We are hoping to address the needs to debug and share resulting policies with this tool.
@@ -198,4 +192,3 @@ We are looking to generalize this project for any policy visualization needs of 
   * Adding functionality for policies other than those currently supported
   * ...
 
-You can email me at [mdeyo@mit.edu](mdeyo@mit.edu) or can post issues directly on the project.
